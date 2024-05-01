@@ -21,7 +21,7 @@ quit... pour quitter
 Choses à faire :
 
 ordonnancement des mouvements
-recherche quiescente
+
 règle des 50 coups
 règle des 3 répétitions
 réglages de temps
